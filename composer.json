@@ -1,7 +1,7 @@
 {
-    "name": "symfony/inflector",
+    "name": "zobaken/inflector",
     "type": "library",
-    "description": "Symfony Inflector Component",
+    "description": "Symfony Inflector Component (forked)",
     "keywords": [
         "string",
         "inflection",
